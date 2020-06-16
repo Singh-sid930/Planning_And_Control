@@ -6,3 +6,4 @@ Contains python implementations of various popular planning and control algorith
 Includes: 
 1. RRT star
 2. Policy Gradient optimum control of Pendulum
+3. Pure Pursuit
